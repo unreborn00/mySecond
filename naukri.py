@@ -4,7 +4,7 @@
 
 2. Extract job title, company, location
 3. Click into a job and get description"""
-from logging import exception
+
 
 from selenium import webdriver
 
